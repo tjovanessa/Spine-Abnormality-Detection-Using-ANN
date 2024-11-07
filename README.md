@@ -38,9 +38,9 @@ ANNs are particularly effective for pattern recognition tasks like image recogni
 ### Requirements
 To run this project, ensure you have the following dependencies installed:
 
-`Python 3.x`
-`pandas`
-`numpy`
-`scikit-learn`
-`tensorflow` (for ANN model)
+`Python 3.x` <br>
+`pandas` <br>
+`numpy` <br>
+`scikit-learn` <br>
+`tensorflow` (for ANN model) <br>
 `matplotlib` (for visualization)
